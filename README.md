@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giantsquad
 - 🎮 I make games
 - 🧑‍💻 I also do graphic design
-- 📫 You can reach me via my Twitter or Instagram
+- 📫 You can reach me via my email
 
 <!---
 giantsquad/giantsquad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
